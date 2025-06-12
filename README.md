@@ -13,13 +13,12 @@ A professional email generation tool built with Streamlit and powered by Google'
   - Grateful
 - **Personalization**: Add recipient and sender names
 - **User-Friendly Interface**: Clean and intuitive Streamlit-based UI
+- **Email enhancement features**
+- **More tone options**
+- **Email history**
 
 ## 🚀 Coming Soon
-
-- Email enhancement features
-- More tone options
 - Template management
-- Email history
 - Custom templates
 
 ## 🛠️ Setup
